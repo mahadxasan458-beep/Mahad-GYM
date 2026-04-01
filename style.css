@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+header, footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+nav {
+    background: gray;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: yellow;
+}
+
+main {
+    padding: 20px;
+}
